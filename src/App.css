@@ -1,0 +1,12 @@
+.content{
+  display: flex;
+  justify-content: space-around;
+  width: 620px;
+  background-color: #FEFEE2;
+}
+.content-informations{
+  width: 67%;
+}
+.content-photo{
+  width: 28%;
+}
